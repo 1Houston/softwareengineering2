@@ -1,0 +1,2 @@
+Установка используемых библиотек:
+pip install transformers[sentencepiece] diffusers transformers accelerate sacremoses fastapi nest-asyncio pyngrok uvicorn
